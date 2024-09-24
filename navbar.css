@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #14c3f8;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+.nav-link {
+    color: #000;
+    font-size: 1rem;
+}
+
+.fa-magnifying-glass {
+    color: #fff;
+    margin: 20px;
+}
+
+.navbar-toggler {
+    border: none;
+    font-size: 1.25rem;
+
+
+}
